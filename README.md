@@ -49,14 +49,14 @@ markdown
 1. Napisz program wyliczający silnię podajnej liczby. [Wiki](https://pl.wikipedia.org/wiki/Silnia).
 2. Napisz program, który zamieni liczbę dziesiętną na string złożonego z 0 i 1, który jest jego reprezentacją binarną 
 2. Zaimplementuj algorytm "sito Erastotenesa" do wyszukiwania liczb pierwszych
-3. Zaimplementuj metodę "swap", która zaminie w tablicy wartości spod 2 zadanych indeksów. ([1,2,3,4,5], 1, 2) -> [1,3,2,4,5] 
-3. Zaimplementuj algorytm sortujący tablicę intów za pomocą sortowania bąbelkowego
-4. Wyznacz liczbę PI za pomocą algorytmu Monte-Carlo.
-5. Napisz program, który sprawdzi, czy liczba jest palindromem. [Wiki](https://en.wikipedia.org/wiki/Palindromic_number)
-6. Napisz program, który "odwróci" stringa np. napis "pies" -> "seip"
-7. Napisz kalkulator, który może dodawać/odejmować/mnożyć/dzielić dowolnie wielkie liczby.
+4. Zaimplementuj metodę "swap", która zaminie w tablicy wartości spod 2 zadanych indeksów. ([1,2,3,4,5], 1, 2) -> [1,3,2,4,5] 
+5. Zaimplementuj algorytm sortujący tablicę intów za pomocą sortowania bąbelkowego
+6. Wyznacz liczbę PI za pomocą algorytmu Monte-Carlo.
+7. Napisz program, który sprawdzi, czy liczba jest palindromem. [Wiki](https://en.wikipedia.org/wiki/Palindromic_number)
+8. Napisz program, który "odwróci" stringa np. napis "pies" -> "seip"
+9. Napisz kalkulator, który może dodawać/odejmować/mnożyć/dzielić dowolnie wielkie liczby.
 Skorzystaj z klasy BigInteger
-8. Napisz program, który przyjmuje od użytkownika tekst z konsoli i wyświetla podstawowe statystyki z tekstu.
+10. Napisz program, który przyjmuje od użytkownika tekst z konsoli i wyświetla podstawowe statystyki z tekstu.
 * Długość tekstu
 * Najczęściej występujące słowo (i ile razy występuje)
 * Ile razy występuje w tekście każda z liter (wraz z liczbą wystąpień)
@@ -76,7 +76,7 @@ który będzie obsługiwał następujące przypadki użycia.
 
 2. Napisz klasę "opakowującą" dla tablicy stringów, która będzie zachowywać się jak
 konkretne na dane. Klasa ta powinna posiadać wygodne konstruktory, które pozwalają na
- tworzenie takiej klasy oraz metody pozwalające na dodawanie/usupełnianie/modyfikowanie wartości w takiej tablicy.
+ tworzenie obiektow takiej klasy oraz metody pozwalające na dodawanie//usuwanie/wyswietlanie/podmienianie/usupełnianie/modyfikowanie wartości w takiej tablicy.
  
 #### Pozostałe zadania
 Pozostałe zadania znajdują się w folderze 'zadania'
